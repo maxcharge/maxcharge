@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur Jain
-- 👀 I’m Competitive Programming and Frontend development
+- 👀 I’m into Competitive Programming and Frontend development
 - 🌱 I’m currently an undergrad and learning frontend technologies
 - 📫 maxcharge788769@gmail.com
 
