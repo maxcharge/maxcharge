@@ -1,7 +1,7 @@
 # [My Portfolio](https://mayur-portfolio.netlify.app)
 - 👋 Hi, I’m Mayur Jain
-- 👀 I’m into Competitive Programming and Frontend development
-- 🌱 I’m currently an undergrad and learning frontend technologies
+- 👀 I’m a Fullstack Developer
+- 🌱 I’m currently an undergrad
 - 📫 maxcharge788769@gmail.com
 
 
